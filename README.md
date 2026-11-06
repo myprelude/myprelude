@@ -1,4 +1,4 @@
-![Ethan He / 何鸣明 — Full-stack developer and AI explorer. Build with AI. Create with passion.](assets/ethan-ai-banner.gif)
+![Ethan He / 何鸣明 — Full-stack developer and AI explorer. Build with AI. Create with passion.](assets/ethan-ai-banner.svg)
 
 # Ethan He · 何鸣明
 
